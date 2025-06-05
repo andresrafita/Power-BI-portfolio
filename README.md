@@ -21,10 +21,9 @@ Aquí encontrarás una colección diversa de dashboards desarrollados para anali
    - Tendencias por tipo de crédito y ubicación
 
 ## 🛠️ Herramientas utilizadas
-Puedes ver los dashboards en [mi sitio web](https://andresrafita.github.io/Power-BI-portfolio/).
-
 - **Power BI Desktop**
 - **Excel / CSV** (como fuentes de datos)
 - **DAX y Power Query** para transformación y modelado
 
 ## 📊 Visualización del repositorio
+Puedes ver los dashboards en [mi sitio web](https://andresrafita.github.io/Power-BI-portfolio/).
