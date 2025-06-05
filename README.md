@@ -1,9 +1,9 @@
-# Power BI Projects Repository
+# Repositorio de Proyectos en Power BI
 
 ¡Bienvenido a mi repositorio de proyectos realizados con **Power BI**!  
-Aquí encontrarás una colección diversa de dashboards e informes interactivos desarrollados para analizar diferentes áreas de negocio. Cada proyecto incluye visualizaciones clave, análisis de datos y conclusiones relevantes.
+Aquí encontrarás una colección diversa de dashboards desarrollados para analizar diferentes áreas de negocio. Cada proyecto incluye visualizaciones clave, análisis de datos y conclusiones relevantes.
 
-## 📊 Proyectos incluidos
+## ⭐ Proyectos incluidos
 
 1. **Análisis de rotación de clientes**
    - Identificación de patrones de abandono
@@ -21,9 +21,10 @@ Aquí encontrarás una colección diversa de dashboards e informes interactivos 
    - Tendencias por tipo de crédito y ubicación
 
 ## 🛠️ Herramientas utilizadas
+Puedes ver los dashboards en [mi sitio web](https://andresrafita.github.io/Power-BI-portfolio/).
 
 - **Power BI Desktop**
 - **Excel / CSV** (como fuentes de datos)
 - **DAX y Power Query** para transformación y modelado
 
-## 📁 Estructura del repositorio
+## 📊 Visualización del repositorio
